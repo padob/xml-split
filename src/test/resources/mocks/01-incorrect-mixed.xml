@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<websites>
+    <website url="https://baeldung.com">
+        <name>Baeldung</name>
+        <category>Online Courses</category>
+        <status>Online</status>
+        <SubjectDatas>
+            <SubjectData
+                    content="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras luctus nunc diam, quis efficitur diam cursus ac. In rutrum arcu non dui maximus dictum. Nullam vehicula, mi at eleifend fringilla, justo nisi varius nisl, in elementum odio erat nec massa. Morbi luctus magna sit amet ligula semper, at laoreet sem laoreet. Integer ornare felis quis magna sollicitudin tristique. Phasellus congue orci est, in interdum est semper lobortis. Quisque cursus risus non dapibus venenatis. Duistincidunt nunc dolor, ac dictum nisl maximus eu. Class aptent taciti sociosqu ad litora torquent perconubia nostra, per inceptos himenaeos. Nullam iaculis turpis suscipit, rutrum ipsum at, pretium est. Praesent sit amet volutpat purus. Nulla porta semper dui, vitae facilisis nibh lobortis vel. Quisque venenatis porta sapien, eget semper ligula viverra et. Aliquam ac euismod nibh.">
+            </SubjectData>
+        </SubjectDatas>
+    </website>
+    <website url="http://example.com">
+        <name>Example</name>
+        <category>Examples</category>
+        <status>Offline</status>
+        <SubjectDatas>
+            <SubjectData/>
+        </SubjectDatas>
+    </website>
+    <website url="http://localhost:8080">
+        <name>Localhost</name>
+        <category>Tests</category>
+        <status>Offline</status>
+        <SubjectDatas>
+            <SubjectData source="BaeldungBlog">
+                <incorrectNodeName>Baeldung</incorrectNodeName>
+            </SubjectData>
+            <SubjectData source="OfflineArticle">
+                <incorrectNodeName>Example</incorrectNodeName>
+            </SubjectData>
+            <SubjectData source="WindowsNote">
+                <incorrectNodeName>Localhost</incorrectNodeName>
+            </SubjectData>
+        </SubjectDatas>
+    </website>
+</websites>
