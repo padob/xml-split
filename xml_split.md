@@ -8,4 +8,4 @@ We want to extract all individual `<SubjectData>` elements into files of their o
 We expect none of these elements to contain more than about 50 MB worth of data.
 
 ## Task
-Write a Java program that reads an XML file and does the splitting described above. Ideally with a unit test that doesn't write any files to the disk. Share the result with marcus.roseneck@xclinical.com. If you have any questions, just send an e-mail.
+Write a Java program that reads an XML file and does the splitting described above. Ideally with a unit test that doesn't write any files to the disk.
