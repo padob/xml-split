@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<websites>
+    <website url="https://baeldung.com">
+        <name>Baeldung</name>
+        <category>Online Courses</category>
+        <status>Online</status>
+        <SubjectDatas>
+            <SubjectData
+                    content="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras luctus nunc diam, quis efficitur diam cursus ac. In rutrum arcu non dui maximus dictum. Nullam vehicula, mi at eleifend fringilla, justo nisi varius nisl, in elementum odio erat nec massa. Morbi luctus magna sit amet ligula semper, at laoreet sem laoreet. Integer ornare felis quis magna sollicitudin tristique. Phasellus congue orci est, in interdum est semper lobortis. Quisque cursus risus non dapibus venenatis. Duistincidunt nunc dolor, ac dictum nisl maximus eu. Class aptent taciti sociosqu ad litora torquent perconubia nostra, per inceptos himenaeos. Nullam iaculis turpis suscipit, rutrum ipsum at, pretium est. Praesent sit amet volutpat purus. Nulla porta semper dui, vitae facilisis nibh lobortis vel. Quisque venenatis porta sapien, eget semper ligula viverra et. Aliquam ac euismod nibh.">
+            </SubjectData>
+            <SubjectData
+                    content="Maecenas rutrum vel dui in rutrum. Sed egestas tortor ante, a porta sapien tempus quis. In mattis blandit ante vel pellentesque. Donec et est quis ante sodales maximus ac ac mauris. Nuncdictum, nunc non pretium fringilla, nisl tellus bibendum purus, at dapibus enim erat sed est. Aliquam porttitor hendrerit lacus, vitae blandit est finibus ac. Proin scelerisque lorem et arcu dictum, eu tincidunt ex efficitur. Donec consectetur ornare condimentum.">
+            </SubjectData>
+            <SubjectData
+                    content="Nunc nec augue non risus rutrum imperdiet. Nam dictum lobortis orci, a sodales massa pellentesque sit amet. Quisque accumsan, tellus et eleifend facilisis, tellus nisi pulvinar massa, congue porta quam arcu a orci. Fusce non euismod nisl, id semper nibh. Aenean ultrices ut mauris ac blandit. Morbi ut lobortis ante. Aenean massa lectus, euismod sit amet odio eget, aliquam dictum lorem. Mauris feugiat malesuada justo, ut blandit lacus molestie sit amet. Ut condimentum metus a ex gravida tempus quis quis velit. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nullam sollicitudin molestie enim. Morbi venenatis nisl tellus, id imperdiet ligula ultricies quis. Phasellus semper erat nunc, non porttitor tellus ullamcorper eget. Ut pharetra erat ut neque molestie interdum.">
+            </SubjectData>
+        </SubjectDatas>
+    </website>
+</websites>
